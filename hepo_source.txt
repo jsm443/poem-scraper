@@ -1,0 +1,3383 @@
+
+<!doctype html>
+<html lang="en" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml">
+    <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+        <!--
+             _   _      _ _         ____            _
+            | | | | ___| | | ___   |  _ \ ___   ___| |_ _ __ _   _
+            | |_| |/ _ \ | |/ _ \  | |_) / _ \ / _ \ __| '__| | | |
+            |  _  |  __/ | | (_) | |  __/ (_) |  __/ |_| |  | |_| |
+            |_| |_|\___|_|_|\___/  |_|   \___/ \___|\__|_|   \__, |
+                                                             |___/
+        -->
+
+        
+
+        <title>Colm: Poems - Hello Poetry</title>
+
+        <meta charset="utf-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+        <meta name="robots" content="index,follow,noarchive"/>
+        <meta name="google-site-verification" content="zXbk0iaFZmNsQseJshezm1k356ySBHoWhTFizpM0zFk" />
+        
+        <link rel="publisher" href="https://plus.google.com/u/0/112231592031263732098" />
+        <meta property="fb:app_id" content="183983364976719"/>
+        <link rel="canonical" href="" /><meta name="image" content="https://hellopoetry.s3.amazonaws.com/static/cache/e3/6b/e36bb39dd302719c29df0983a1aa1981.jpg" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:site" content="@hellopoetry" /><meta name="twitter:account_id" content="54892430"/><meta name="twitter:title" content="Colm: Poems"/><meta name="twitter:image" content="https://hellopoetry.s3.amazonaws.com/static/cache/e3/6b/e36bb39dd302719c29df0983a1aa1981.jpg" /><meta property="og:site_name" content="Hello Poetry"/><meta property="og:title" content="Colm: Poems"/><meta property="og:description" content="Click to read Colm&#39;s poems and comment..."/><meta property="og:image" content="https://hellopoetry.s3.amazonaws.com/static/cache/e3/6b/e36bb39dd302719c29df0983a1aa1981.jpg"/>
+        
+        
+            <link rel="stylesheet" media="all" type="text/css" href="https://hellopoetry.s3.amazonaws.com/css/hp.full.css?71" />
+        
+
+        <!--[if lt IE 9]>
+        <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+        
+            <script src="//ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js" type="text/javascript"></script>
+        
+
+        
+        
+        <!-- Hotjar Tracking Code for www.hellopoetry.com -->
+        
+
+        <link rel="shortcut icon" href="https://hellopoetry.s3.amazonaws.com/img/logo.png?71"/>
+        <link rel="apple-touch-icon" href="https://hellopoetry.s3.amazonaws.com/img/logo.png?71" />
+        
+        <script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-15776931-1', 'auto', {
+                
+            });
+            // ga('send', 'pageview');
+        </script>
+        
+        
+    </head>
+    <body class="has-cover-left">
+        
+  <div id="menu" class="clearfix">
+  <a class="hepo" href="/">
+    HePo
+  </a>
+  <div id="mainmenu" class="mainmenu">
+    <a href="#" class="menu-block icon popover-mainmenu" data-placement="bottom-right"><i class="fa fa-fw fa-bars text-white"></i></a>
+    <div class="webui-popover-content">
+      
+      <a href="/poets/" class="row">Classics</a>
+      <a href="/words/" class="row">Words</a>
+      <a href="/blog/" class="row">Blog</a>
+      <a href="/faq/" class="row">F.A.Q.</a>
+      <a href="/about/" class="row">About</a>
+      <a href="/contact/" class="row">Contact</a>
+      <a href="/guidelines/" class="row">Guidelines</a>
+      <div class="nohover s subtle tops bottomss">
+        &copy;&nbsp;2023&nbsp;HePo<br/>
+        by&nbsp;<a href="https://hellopoetry.com/eliotyork/" class="subtle">Eliot</a>
+      </div>
+    </div>
+    <a href="#" class="menu-block icon popover-mobile-search tablet-shown" data-placement="bottom-right"><i class="fa fa-fw fa-search search-mobile text-white"></i></a>
+    <div class="webui-popover-content">
+      <div class="mobile-search-popover-content">
+      <form class="search" method="GET" action="/search/all/">
+        <input id="live_search_mobile" type="text" placeholder="" name="q">
+        <i class="fa fa-fw fa-search"></i>
+      </form>
+      </div>
+    </div>
+    <form class="search menu-block tablet-hidden" method="GET" action="/search/all/">
+      <input id="live_search" type="text" placeholder="" name="q">
+      <i class="fa fa-fw fa-search"></i>
+      <script type="text/javascript">
+        $(function () {
+          $('#live_search').on("focus", function(){
+            $(this).parent().addClass("active");
+          }).on("blur", function(){
+            if($(this).val().length === 0)
+              $(this).parent().removeClass("active");
+          });
+          $(".search .fa-search").on("click", function(){
+            if(!$(this).hasClass("search-mobile")){
+              $(this).parent().addClass("active");
+              $(this).parent().find("input").focus();
+            }
+          })
+
+        
+        })
+
+      </script>
+    </form>
+  </div>
+  <div id="usermenu" class="usermenu">
+    
+      <div class="tablet-hidden">
+        <a href="/register/" title="Request an invite" class="menu-block icon"><i class="fa fa-fw fa-user-plus"></i></a>
+        <a href="/log-in/" title="Log in to your account" class="menu-block icon"><i class="fa fa-fw fa-sign-in"></i></a>
+      </div>
+      <div class="tablet-shown">
+        <a href="/register/" class="menu-block icon"><i class="fa fa-fw fa-user-plus"></i></a>
+        <a href="/log-in/" class="menu-block icon"><i class="fa fa-fw fa-sign-in"></i></a>
+      </div>
+    
+  </div>
+  <script type="text/javascript">
+    $(function () {
+      $('#mainmenu .popover-mainmenu').webuiPopover({
+        style: 'mainmenu',
+        container: $("#menu"),
+        offsetTop: 1
+      })
+      $('#mainmenu .popover-mobile-search').webuiPopover({
+        style: 'search',
+        width: 220,
+        container: $("#menu"),
+        offsetLeft: 0,
+        offsetTop: 10,
+        onShow: function($e){
+          $("#live_search_mobile").focus();
+        },
+      })
+      $('#usermenu .popover-usermenu').webuiPopover({
+        style: 'usermenu',
+        container: $("#menu"),
+        offsetTop: 1
+      });
+      $('#usermenu .popover-notif').webuiPopover({
+        type: 'async',
+        cache: false,
+        container: $("#menu"),
+        offsetTop: 1,
+        async: {
+          success: function($e){
+            $("img[data-src]").each(function(){
+                var $t = $(this);
+                $t.attr("src", $t.attr("data-src"));
+                $t.removeAttr("data-src");
+            });
+          }
+        },
+        onShow: function($e){
+          $(".popover-notif").find(".unread").remove();
+        },
+        placement: 'bottom-left',
+        url:"/popover/notifications/"
+      })
+    })
+  </script>
+</div>
+
+  
+      <div style="padding:7px 12px 5px;background-color:#eee;text-align:center;font-size:14px;" class=''>
+        Submit your work, meet writers and drop the ads. <a href="/register/">Become&nbsp;a&nbsp;member</a>
+      </div>
+  
+
+  
+
+  
+  <div id="header" class="clearfix">
+    
+    
+      <div class="header-title ellipsis">
+        <a href="/colmistoirm/" class="nocolor color-midnight">Colm</a>
+      </div>
+      
+        <div class="header-subtitle subtle">
+          <a href='/colmistoirm/followers/' class='subtle'>1.0k followers</a> / <a href='/colmistoirm/words/' class='subtle'>45.1k words</a>
+        </div>
+      
+    
+    
+      <div class="header-actions">
+        
+          
+  
+    <button data-href="/act/follow/person/672689/" class="follow-profile-672689 btn color-midnight btn-small" action-submit="POST" action-authed="true">
+      
+        Follow
+      
+    </button>
+  
+
+        
+          
+    <a href="/messages/send/672689/?next=/colmistoirm/poems/" class="btn btn-small" rel="nofollow">Message</a>
+
+        
+          
+    <a href="/block/672689/" class="btn btn-small block-profile">Block</a>
+
+        
+          
+        
+      </div>
+    
+    
+      <div class="header-menu header-menu-has-stats">
+        
+          <a  href="/colmistoirm/" class="header-tab nocolor color-midnight">
+            Stream
+            
+              <div class="header-tab-stat s eq">
+                2.3k
+              </div>
+            
+            
+          </a>
+          
+        
+          <a  href="/colmistoirm/poems/" class="header-tab nocolor color-midnight header-tab-selected">
+            Poems
+            
+              <div class="header-tab-stat s eq">
+                2.3k
+              </div>
+            
+            
+          </a>
+          
+            <i class="fa fa-fw fa-angle-down popover-header hover-color-midnight"></i>
+            <div class="webui-popover-content">
+              
+              
+                <a  href="/colmistoirm/poems/?tab"><span class="nocolor color-midnight header-tab-selected disabled">Latest</span></a><br/>
+                  
+              
+                <a  href="/colmistoirm/poems/popular/"><span class="nocolor color-midnight">Popular</span></a><br/>
+                  
+              
+                <a  href="/colmistoirm/poems/title/"><span class="nocolor color-midnight">A - Z</span></a><br/>
+                  
+              
+            </div>
+          
+        
+          <a  href="/colmistoirm/collections/" class="header-tab nocolor color-midnight">
+            Collections
+            
+              <div class="header-tab-stat s eq">
+                9
+              </div>
+            
+            
+          </a>
+          
+        
+          <a  href="/colmistoirm/favorites/" class="header-tab nocolor color-midnight">
+            Favorites
+            
+              <div class="header-tab-stat s eq">
+                5.4k
+              </div>
+            
+            
+          </a>
+          
+            <i class="fa fa-fw fa-angle-down popover-header hover-color-midnight"></i>
+            <div class="webui-popover-content">
+              
+              
+                <a  href="/colmistoirm/favorites/?tab"><span class="nocolor color-midnight">Poems</span>&nbsp;<span class="header-tab-stat">(3.5k)</span></a><br/>
+                  
+              
+                <a  href="/colmistoirm/following/"><span class="nocolor color-midnight">Members</span>&nbsp;<span class="header-tab-stat">(1.8k)</span></a><br/>
+                  
+              
+                <a  href="/colmistoirm/following/classics/"><span class="nocolor color-midnight">Classics</span>&nbsp;<span class="header-tab-stat">(10)</span></a><br/>
+                  
+              
+            </div>
+          
+        
+      </div>
+    
+  </div>
+  
+  <div id="north" class="text-center" style="display:none">
+    <div class="ellipsis header-title">
+      <a href="/colmistoirm/" class="nocolor color-midnight">Colm</a>
+    </div>
+  </div>
+  
+
+
+  
+  
+    
+      <div id="cover" style="background-image:url(https://hellopoetry.s3.amazonaws.com/static/cache/b0/c1/b0c1eedf21620ac3aa339312b535105a.jpg)">&nbsp;</div>
+    
+
+    <div id="northeast" class="abs mobile-hidden">
+      
+      
+    </div>
+
+    <div id="northwest" class="abs mobile-hidden">
+      
+      
+    </div>
+  
+
+  
+
+
+  
+    <div id="southeast" class="tablet-fixed">
+      
+    </div>
+  
+
+  <div id="page" class="">
+<div id="poem4665252" class="poem poem-left preview" data-align="left" data-url="http://hellopoetry.com/poem/4665252/this-drive-begins-again/" data-text="This drive begins again by Colm" seepoem="/act/poem/see/4665252/" readpoem="/act/poem/read/4665252/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Dec 23, 2022">Dec 2022</span>
+            
+            
+              <span class="s subtle hovershow" title="180 views"> &middot; 180</span>
+            
+          
+        </div>
+        <a href="/poem/4665252/this-drive-begins-again/" class="poem-title nocolor">This drive begins again</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/colmistoirm/" class="nocolor poem-poet-name">Colm</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Dec 23, 2022">
+            Dec 2022
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/4665252/this-drive-begins-again/" class="nocolor">This drive begins again</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      I am that which is becoming<br><br>The realization of my dream<br><br>Which I’ve been asleep to for these past ten years<br><br>And ten years from now I’ll wake again<br><br>And in a new direction turn suddenly<br><br>Unendingly<br><br>And into the sun<br>
+    </div>
+    
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/4665252/" class="readpoem color-midnight" rel="nofollow" title="Continue reading Colm's poem This drive begins again">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+<div id="poem4665251" class="poem poem-center preview" data-align="center" data-url="http://hellopoetry.com/poem/4665251/themselves-alone-and-yet-not/" data-text="Themselves Alone And Yet Not by Colm" seepoem="/act/poem/see/4665251/" readpoem="/act/poem/read/4665251/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Dec 23, 2022">Dec 2022</span>
+            
+            
+              <span class="s subtle hovershow" title="170 views"> &middot; 170</span>
+            
+          
+        </div>
+        <a href="/poem/4665251/themselves-alone-and-yet-not/" class="poem-title nocolor">Themselves Alone And Yet Not</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/colmistoirm/" class="nocolor poem-poet-name">Colm</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Dec 23, 2022">
+            Dec 2022
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/4665251/themselves-alone-and-yet-not/" class="nocolor">Themselves Alone And Yet Not</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      One day I awoke<br>And in the mirror looked<br>Seeing not just myself <br>But you as well<br>And with a smile we <br>Went about our days <br>As two halves can only be<br>Themselves<br>
+    </div>
+    
+      <div class="poem-part topss poem-append s wordwrap">
+        (:
+      </div>
+    
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/4665251/" class="readpoem color-midnight" rel="nofollow" title="Continue reading Colm's poem Themselves Alone And Yet Not">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+<div id="poem4665250" class="poem poem-left preview" data-align="left" data-url="http://hellopoetry.com/poem/4665250/inklings/" data-text="Inklings by Colm" seepoem="/act/poem/see/4665250/" readpoem="/act/poem/read/4665250/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Dec 23, 2022">Dec 2022</span>
+            
+            
+              <span class="s subtle hovershow" title="39 views"> &middot; 39</span>
+            
+          
+        </div>
+        <a href="/poem/4665250/inklings/" class="poem-title nocolor">Inklings</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/colmistoirm/" class="nocolor poem-poet-name">Colm</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Dec 23, 2022">
+            Dec 2022
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/4665250/inklings/" class="nocolor">Inklings</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      Expressions cannot run like ink<br>&nbsp;&nbsp;&nbsp;&nbsp;They can only hold fast<br>To the paper of memory<br>&nbsp;&nbsp;&nbsp;&nbsp;And at our feelings . Grasp<br>For just a moment to pass<br>&nbsp;&nbsp; And think though they will not last<br>
+    </div>
+    
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/4665250/" class="readpoem color-midnight" rel="nofollow" title="Continue reading Colm's poem Inklings">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+<div id="poem4665249" class="poem poem-right preview" data-align="right" data-url="http://hellopoetry.com/poem/4665249/it-is-here/" data-text="It is here by Colm" seepoem="/act/poem/see/4665249/" readpoem="/act/poem/read/4665249/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Dec 23, 2022">Dec 2022</span>
+            
+            
+              <span class="s subtle hovershow" title="70 views"> &middot; 70</span>
+            
+          
+        </div>
+        <a href="/poem/4665249/it-is-here/" class="poem-title nocolor">It is here</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/colmistoirm/" class="nocolor poem-poet-name">Colm</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Dec 23, 2022">
+            Dec 2022
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/4665249/it-is-here/" class="nocolor">It is here</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      It's not the walls<br>Or the people same<br>Or the trains which make this place my own<br>Not the beaches which I joke about<br>Or the hilly slanted towny homes<br>It's the clouded skies and windmills wave<br>It's my own my spoken out in voice<br>In all that there is this homely place<br>And the power of my own my choice<br><br>It is here<br>
+    </div>
+    
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/4665249/" class="readpoem color-midnight" rel="nofollow" title="Continue reading Colm's poem It is here">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+<div id="poem4665248" class="poem poem-left preview" data-align="left" data-url="http://hellopoetry.com/poem/4665248/the-trees-atop/" data-text="The trees atop by Colm" seepoem="/act/poem/see/4665248/" readpoem="/act/poem/read/4665248/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Dec 23, 2022">Dec 2022</span>
+            
+            
+              <span class="s subtle hovershow" title="115 views"> &middot; 115</span>
+            
+          
+        </div>
+        <a href="/poem/4665248/the-trees-atop/" class="poem-title nocolor">The trees atop</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/colmistoirm/" class="nocolor poem-poet-name">Colm</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Dec 23, 2022">
+            Dec 2022
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/4665248/the-trees-atop/" class="nocolor">The trees atop</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      The trees up here are thin and fair<br>Beneath thickened wind which howls away<br>How they bend and sway and cannot bare<br>To be spoken of as if they will not stay<br><br>I can feel the deep gray clay beneath <br>The water where my father begs it lay<br>There is not so much as an autumn leaf of scented left<br>As there is searing cold to be brushed away<br><br>The trees up here are thin and fair<br>Beneath thickened wind which howls away<br>How they bend and sway and cannot bare<br>To be spoken of as if they will not stay<br>
+    </div>
+    
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/4665248/" class="readpoem color-midnight" rel="nofollow" title="Continue reading Colm's poem The trees atop">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+<div id="poem4654646" class="poem poem-right preview" data-align="right" data-url="http://hellopoetry.com/poem/4654646/to-color-a-tanka-shadowy-gray/" data-text="To color a tanka shadowy gray by Colm" seepoem="/act/poem/see/4654646/" readpoem="/act/poem/read/4654646/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Nov 19, 2022">Nov 2022</span>
+            
+            
+              <span class="s subtle hovershow" title="138 views"> &middot; 138</span>
+            
+          
+        </div>
+        <a href="/poem/4654646/to-color-a-tanka-shadowy-gray/" class="poem-title nocolor">To color a tanka shadowy gray</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/colmistoirm/" class="nocolor poem-poet-name">Colm</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Nov 19, 2022">
+            Nov 2022
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/4654646/to-color-a-tanka-shadowy-gray/" class="nocolor">To color a tanka shadowy gray</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      Color grows above<br>And wrestles darkness down slow<br>Behind the mountains<br>Peaking into wondrous lost<br>The next day is found awake<br>
+    </div>
+    
+      <div class="poem-part topss poem-append s wordwrap">
+        ST11<br /><br />A set of colors and dreams and thoughts
+      </div>
+    
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/4654646/" class="readpoem color-midnight" rel="nofollow" title="Continue reading Colm's poem To color a tanka shadowy gray">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+<div id="poem4654645" class="poem poem-center preview" data-align="center" data-url="http://hellopoetry.com/poem/4654645/the-tenth-haiku/" data-text="The tenth haiku by Colm" seepoem="/act/poem/see/4654645/" readpoem="/act/poem/read/4654645/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Nov 19, 2022">Nov 2022</span>
+            
+            
+              <span class="s subtle hovershow" title="118 views"> &middot; 118</span>
+            
+          
+        </div>
+        <a href="/poem/4654645/the-tenth-haiku/" class="poem-title nocolor">The tenth haiku</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/colmistoirm/" class="nocolor poem-poet-name">Colm</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Nov 19, 2022">
+            Nov 2022
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/4654645/the-tenth-haiku/" class="nocolor">The tenth haiku</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      There's no back and forth <br>Left to be found here and when<br>All around are done<br>
+    </div>
+    
+      <div class="poem-part topss poem-append s wordwrap">
+        ST10
+      </div>
+    
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/4654645/" class="readpoem color-midnight" rel="nofollow" title="Continue reading Colm's poem The tenth haiku">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+<div id="poem4654644" class="poem poem-left preview" data-align="left" data-url="http://hellopoetry.com/poem/4654644/free-indeed/" data-text="Free indeed by Colm" seepoem="/act/poem/see/4654644/" readpoem="/act/poem/read/4654644/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Nov 19, 2022">Nov 2022</span>
+            
+            
+              <span class="s subtle hovershow" title="55 views"> &middot; 55</span>
+            
+          
+        </div>
+        <a href="/poem/4654644/free-indeed/" class="poem-title nocolor">Free indeed</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/colmistoirm/" class="nocolor poem-poet-name">Colm</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Nov 19, 2022">
+            Nov 2022
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/4654644/free-indeed/" class="nocolor">Free indeed</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      Mountain airs<br>Beautiful trees<br>Unending ridges<br>Or winding seas<br><br>The colorful furns <br>The flowery bees<br>The fallen rains<br>Or the whispering leaves<br><br>No looks <br>No sights<br>No sounds <br>Nor scenes <br><br>Can ever keep me from my words<br>Or yours from my eyes and hopeful promise to me<br>That if written or not<br>One day I'll be free<br>
+    </div>
+    
+      <div class="poem-part topss poem-append s wordwrap">
+        ST9
+      </div>
+    
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/4654644/" class="readpoem color-midnight" rel="nofollow" title="Continue reading Colm's poem Free indeed">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+<div id="poem4654643" class="poem poem-center preview" data-align="center" data-url="http://hellopoetry.com/poem/4654643/trsuted-haiku/" data-text="Trsuted Haiku by Colm" seepoem="/act/poem/see/4654643/" readpoem="/act/poem/read/4654643/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Nov 19, 2022">Nov 2022</span>
+            
+            
+              <span class="s subtle hovershow" title="90 views"> &middot; 90</span>
+            
+          
+        </div>
+        <a href="/poem/4654643/trsuted-haiku/" class="poem-title nocolor">Trsuted Haiku</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/colmistoirm/" class="nocolor poem-poet-name">Colm</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Nov 19, 2022">
+            Nov 2022
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/4654643/trsuted-haiku/" class="nocolor">Trsuted Haiku</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      Kindness knows no end<br>Until the trust is destroyed<br>And remains no will<br>
+    </div>
+    
+      <div class="poem-part topss poem-append s wordwrap">
+        ST8
+      </div>
+    
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/4654643/" class="readpoem color-midnight" rel="nofollow" title="Continue reading Colm's poem Trsuted Haiku">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+<div id="poem4654642" class="poem poem-left preview" data-align="left" data-url="http://hellopoetry.com/poem/4654642/age-old-warrior/" data-text="Age old warrior by Colm" seepoem="/act/poem/see/4654642/" readpoem="/act/poem/read/4654642/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Nov 19, 2022">Nov 2022</span>
+            
+            
+              <span class="s subtle hovershow" title="75 views"> &middot; 75</span>
+            
+          
+        </div>
+        <a href="/poem/4654642/age-old-warrior/" class="poem-title nocolor">Age old warrior</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/colmistoirm/" class="nocolor poem-poet-name">Colm</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Nov 19, 2022">
+            Nov 2022
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/4654642/age-old-warrior/" class="nocolor">Age old warrior</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      These humans have stoked my fires of old<br>With their chest beating brows<br>With their self praising pride<br><br>And so with my own and this hand of mine<br>I will move swifter than wind <br>And do my best to be better<br><br>And so they will find soon enough<br>In the waiting, wanting<br>In the destructive test<br>
+    </div>
+    
+      <div class="poem-part topss poem-append s wordwrap">
+        ST7
+      </div>
+    
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/4654642/" class="readpoem color-midnight" rel="nofollow" title="Continue reading Colm's poem Age old warrior">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+<div id="poem4654641" class="poem poem-left preview" data-align="left" data-url="http://hellopoetry.com/poem/4654641/thoughts-midst-dreams/" data-text="Thoughts midst dreams by Colm" seepoem="/act/poem/see/4654641/" readpoem="/act/poem/read/4654641/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Nov 19, 2022">Nov 2022</span>
+            
+            
+              <span class="s subtle hovershow" title="52 views"> &middot; 52</span>
+            
+          
+        </div>
+        <a href="/poem/4654641/thoughts-midst-dreams/" class="poem-title nocolor">Thoughts midst dreams</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/colmistoirm/" class="nocolor poem-poet-name">Colm</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Nov 19, 2022">
+            Nov 2022
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/4654641/thoughts-midst-dreams/" class="nocolor">Thoughts midst dreams</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      Fear is such a fleeting thing<br>A dream a dream<br>And in waking seeing <br>How's its gone as if it were never in being<br><br>But thoughts such as these<br>Which plague seven times over me<br>Are so much harder to set free<br>So much more difficult to let be<br><br>I am haunted by possibilities<br>
+    </div>
+    
+      <div class="poem-part topss poem-append s wordwrap">
+        ST6
+      </div>
+    
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/4654641/" class="readpoem color-midnight" rel="nofollow" title="Continue reading Colm's poem Thoughts midst dreams">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+<div id="poem4654639" class="poem poem-left preview" data-align="left" data-url="http://hellopoetry.com/poem/4654639/suddenly-actualized/" data-text="Suddenly actualized by Colm" seepoem="/act/poem/see/4654639/" readpoem="/act/poem/read/4654639/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Nov 19, 2022">Nov 2022</span>
+            
+            
+              <span class="s subtle hovershow" title="54 views"> &middot; 54</span>
+            
+          
+        </div>
+        <a href="/poem/4654639/suddenly-actualized/" class="poem-title nocolor">Suddenly actualized</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/colmistoirm/" class="nocolor poem-poet-name">Colm</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Nov 19, 2022">
+            Nov 2022
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/4654639/suddenly-actualized/" class="nocolor">Suddenly actualized</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      It's a different sort of thing to feel<br>To go from one to another<br>No longer constantly <br><br>But to suddenly see<br>All of your fanciful dreams<br>Just as what they are in the light of day<br><br>Then you know what has been<br>And what will thankfully never be<br><br>And then suddenly you're free<br>But not in the way you'd imagines<br><br>Let alone in the time-frame<br><br>Yet you can finally see<br>
+    </div>
+    
+      <div class="poem-part topss poem-append s wordwrap">
+        ST5
+      </div>
+    
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/4654639/" class="readpoem color-midnight" rel="nofollow" title="Continue reading Colm's poem Suddenly actualized">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+<div id="poem4654638" class="poem poem-left preview" data-align="left" data-url="http://hellopoetry.com/poem/4654638/shadowwebbed/" data-text="Shadowwebbed by Colm" seepoem="/act/poem/see/4654638/" readpoem="/act/poem/read/4654638/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Nov 19, 2022">Nov 2022</span>
+            
+            
+              <span class="s subtle hovershow" title="43 views"> &middot; 43</span>
+            
+          
+        </div>
+        <a href="/poem/4654638/shadowwebbed/" class="poem-title nocolor">Shadowwebbed</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/colmistoirm/" class="nocolor poem-poet-name">Colm</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Nov 19, 2022">
+            Nov 2022
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/4654638/shadowwebbed/" class="nocolor">Shadowwebbed</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      The spiderwebbed shadows reach<br>Out like friendly hands<br>From the feet of trees known only to me<br>On both this way and in this moment<br>They grasp at feet belonging to us<br>And thoughts owned more by me<br><br>Yup<br>
+    </div>
+    
+      <div class="poem-part topss poem-append s wordwrap">
+        ST4
+      </div>
+    
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/4654638/" class="readpoem color-midnight" rel="nofollow" title="Continue reading Colm's poem Shadowwebbed">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+<div id="poem4654637" class="poem poem-left preview" data-align="left" data-url="http://hellopoetry.com/poem/4654637/windy-feels/" data-text="Windy Feels by Colm" seepoem="/act/poem/see/4654637/" readpoem="/act/poem/read/4654637/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Nov 19, 2022">Nov 2022</span>
+            
+            
+              <span class="s subtle hovershow" title="56 views"> &middot; 56</span>
+            
+          
+        </div>
+        <a href="/poem/4654637/windy-feels/" class="poem-title nocolor">Windy Feels</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/colmistoirm/" class="nocolor poem-poet-name">Colm</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Nov 19, 2022">
+            Nov 2022
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/4654637/windy-feels/" class="nocolor">Windy Feels</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      A human feeling<br>When left alone<br>Has no more significance <br>Than a breeze unseen<br>Than a wood no longer at ease<br><br>But how a human being can howl<br>And whip round a small meadow of community <br>When they are displeased <br>And feeling ever powerless in their small being<br><br>What an unseen sight indeed<br>By their own feelings trapped<br>If they'd just set themselves free<br><br>It is sad <br>To not see<br><br>):<br>
+    </div>
+    
+      <div class="poem-part topss poem-append s wordwrap">
+        ST3
+      </div>
+    
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/4654637/" class="readpoem color-midnight" rel="nofollow" title="Continue reading Colm's poem Windy Feels">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+<div id="poem4654636" class="poem poem-left preview" data-align="left" data-url="http://hellopoetry.com/poem/4654636/burn-on-above-and-beyond/" data-text="Burn on above and beyond by Colm" seepoem="/act/poem/see/4654636/" readpoem="/act/poem/read/4654636/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Nov 19, 2022">Nov 2022</span>
+            
+            
+              <span class="s subtle hovershow" title="107 views"> &middot; 107</span>
+            
+          
+        </div>
+        <a href="/poem/4654636/burn-on-above-and-beyond/" class="poem-title nocolor">Burn on above and beyond</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/colmistoirm/" class="nocolor poem-poet-name">Colm</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Nov 19, 2022">
+            Nov 2022
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/4654636/burn-on-above-and-beyond/" class="nocolor">Burn on above and beyond</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      If there's one thing I know<br>More than anything un<br>It's that the sunsets will fall<br>The skies will stand tall<br>And just out of reach<br>Of this shared everyone <br>The stars will burn on <br>And be unseen when they finally decided to come undone<br>
+    </div>
+    
+      <div class="poem-part topss poem-append s wordwrap">
+        ST2
+      </div>
+    
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/4654636/" class="readpoem color-midnight" rel="nofollow" title="Continue reading Colm's poem Burn on above and beyond">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+<div id="poem4654634" class="poem poem-left preview" data-align="left" data-url="http://hellopoetry.com/poem/4654634/settle-me-like-rain/" data-text="Settle me like rain by Colm" seepoem="/act/poem/see/4654634/" readpoem="/act/poem/read/4654634/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Nov 19, 2022">Nov 2022</span>
+            
+            
+              <span class="s subtle hovershow" title="33 views"> &middot; 33</span>
+            
+          
+        </div>
+        <a href="/poem/4654634/settle-me-like-rain/" class="poem-title nocolor">Settle me like rain</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/colmistoirm/" class="nocolor poem-poet-name">Colm</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Nov 19, 2022">
+            Nov 2022
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/4654634/settle-me-like-rain/" class="nocolor">Settle me like rain</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      Rain knows how to sit so still<br>Once fallen from grace and gracious sky alike<br><br>Yet I <br>The man who can never stand<br>To sit for more than a minute still<br>Or to contain his mind for more than a second alive<br><br>Could learn quite a bit from this rain of yours<br>Not the least of which that it was never mine<br><br>How I watch you fall and settle still<br>Just to listen until I smile wide<br><br>And then at last we are at an end<br>A settling of some mysterous kind<br>
+    </div>
+    
+      <div class="poem-part topss poem-append s wordwrap">
+        ST1
+      </div>
+    
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/4654634/" class="readpoem color-midnight" rel="nofollow" title="Continue reading Colm's poem Settle me like rain">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+<div id="poem4641974" class="poem poem-left preview" data-align="left" data-url="http://hellopoetry.com/poem/4641974/a-shared-cup/" data-text="A Shared Cup by Colm" seepoem="/act/poem/see/4641974/" readpoem="/act/poem/read/4641974/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Oct 9, 2022">Oct 2022</span>
+            
+            
+              <span class="s subtle hovershow" title="49 views"> &middot; 49</span>
+            
+          
+        </div>
+        <a href="/poem/4641974/a-shared-cup/" class="poem-title nocolor">A Shared Cup</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/colmistoirm/" class="nocolor poem-poet-name">Colm</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Oct 9, 2022">
+            Oct 2022
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/4641974/a-shared-cup/" class="nocolor">A Shared Cup</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      This feeling isn't my own perhaps<br>But imparted to me in part by you<br>The way the words just wouldn't last<br>The foiled hours which ran me through<br><br>I walked and spoke<br>You sat and sang<br>To each our own in tune and life<br><br>And yet the feeling permeates <br>And makes me sip another drip<br><br>To share like that another life<br>
+    </div>
+    
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/4641974/" class="readpoem color-midnight" rel="nofollow" title="Continue reading Colm's poem A Shared Cup">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+<div id="poem4641975" class="poem poem-left preview" data-align="left" data-url="http://hellopoetry.com/poem/4641975/dreams-die-fast-sadly/" data-text="Dreams die fast, sadly by Colm" seepoem="/act/poem/see/4641975/" readpoem="/act/poem/read/4641975/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Oct 9, 2022">Oct 2022</span>
+            
+            
+              <span class="s subtle hovershow" title="335 views"> &middot; 335</span>
+            
+          
+        </div>
+        <a href="/poem/4641975/dreams-die-fast-sadly/" class="poem-title nocolor">Dreams die fast, sadly</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/colmistoirm/" class="nocolor poem-poet-name">Colm</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Oct 9, 2022">
+            Oct 2022
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/4641975/dreams-die-fast-sadly/" class="nocolor">Dreams die fast, sadly</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      Perhaps you are not as you seem<br>Or perhaps the problem<br>As it always has been<br>Resides with me<br><br>For I am my not that<br>As I'm not angry when awake<br>But that too often now I have gone to dreams<br>And dreams don't die for me <br><br>Instead, I breathe <br>And in sleeping <br>Wake<br>
+    </div>
+    
+      <div class="poem-part topss poem-append s wordwrap">
+        Dreams die fast, sadly
+      </div>
+    
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/4641975/" class="readpoem color-midnight" rel="nofollow" title="Continue reading Colm's poem Dreams die fast, sadly">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+<div id="poem4641971" class="poem poem-left preview" data-align="left" data-url="http://hellopoetry.com/poem/4641971/looking-down-at-a-love/" data-text="Looking down at a love by Colm" seepoem="/act/poem/see/4641971/" readpoem="/act/poem/read/4641971/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Oct 9, 2022">Oct 2022</span>
+            
+            
+              <span class="s subtle hovershow" title="34 views"> &middot; 34</span>
+            
+          
+        </div>
+        <a href="/poem/4641971/looking-down-at-a-love/" class="poem-title nocolor">Looking down at a love</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/colmistoirm/" class="nocolor poem-poet-name">Colm</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Oct 9, 2022">
+            Oct 2022
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/4641971/looking-down-at-a-love/" class="nocolor">Looking down at a love</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      Though you may squint,<br>And look and see,<br>And maybe catch a glimpse perhaps<br><br>In remembering your past,<br>In looking up most lovingly<br><br>That was the past,<br>And you're no longer that<br><br>And now, this present sight,<br>Is me<br>
+    </div>
+    
+      <div class="poem-part topss poem-append s wordwrap">
+        another yuppp
+      </div>
+    
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/4641971/" class="readpoem color-midnight" rel="nofollow" title="Continue reading Colm's poem Looking down at a love">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+<div id="poem4641969" class="poem poem-left preview" data-align="left" data-url="http://hellopoetry.com/poem/4641969/god-above/" data-text="God above by Colm" seepoem="/act/poem/see/4641969/" readpoem="/act/poem/read/4641969/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Oct 9, 2022">Oct 2022</span>
+            
+            
+              <span class="s subtle hovershow" title="70 views"> &middot; 70</span>
+            
+          
+        </div>
+        <a href="/poem/4641969/god-above/" class="poem-title nocolor">God above</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/colmistoirm/" class="nocolor poem-poet-name">Colm</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Oct 9, 2022">
+            Oct 2022
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/4641969/god-above/" class="nocolor">God above</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      I will not worship<br>Those visions which claim<br>To be higher than God<br>And deliver far less<br>Then such a noble sacrifice actually did<br><br>No sight or promise if feeling compares<br>To he the am that it<br>
+    </div>
+    
+      <div class="poem-part topss poem-append s wordwrap">
+        All else
+      </div>
+    
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/4641969/" class="readpoem color-midnight" rel="nofollow" title="Continue reading Colm's poem God above">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+<div id="poem4641968" class="poem poem-left preview" data-align="left" data-url="http://hellopoetry.com/poem/4641968/when-left-alone/" data-text="When left alone by Colm" seepoem="/act/poem/see/4641968/" readpoem="/act/poem/read/4641968/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Oct 9, 2022">Oct 2022</span>
+            
+            
+              <span class="s subtle hovershow" title="40 views"> &middot; 40</span>
+            
+          
+        </div>
+        <a href="/poem/4641968/when-left-alone/" class="poem-title nocolor">When left alone</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/colmistoirm/" class="nocolor poem-poet-name">Colm</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Oct 9, 2022">
+            Oct 2022
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/4641968/when-left-alone/" class="nocolor">When left alone</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      There's absolutely no proof<br>That if left alone<br>Human beings will be<br>Or course correct more than anyone<br>Who have lost themselves <br>Most resoundingly at sea<br><br>If anything we<br>Need more guidance than ever<br>In this time of being most encouraged to be<br><br>Whatever we feel<br>Whatever we dream<br><br>When really we are actually not at all these things<br><br>We are just that which sees<br>Humans who be<br>
+    </div>
+    
+      <div class="poem-part topss poem-append s wordwrap">
+        We stray
+      </div>
+    
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/4641968/" class="readpoem color-midnight" rel="nofollow" title="Continue reading Colm's poem When left alone">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+<div id="poem4641966" class="poem poem-left preview" data-align="left" data-url="http://hellopoetry.com/poem/4641966/threads-of-memory-and-mind/" data-text="Threads of memory and mind by Colm" seepoem="/act/poem/see/4641966/" readpoem="/act/poem/read/4641966/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Oct 9, 2022">Oct 2022</span>
+            
+            
+              <span class="s subtle hovershow" title="35 views"> &middot; 35</span>
+            
+          
+        </div>
+        <a href="/poem/4641966/threads-of-memory-and-mind/" class="poem-title nocolor">Threads of memory and mind</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/colmistoirm/" class="nocolor poem-poet-name">Colm</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Oct 9, 2022">
+            Oct 2022
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/4641966/threads-of-memory-and-mind/" class="nocolor">Threads of memory and mind</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      No subway car will ever hold my thoughts<br>No taxi will ever call me solved<br><br>Instead, I wait<br>Always create <br>And let not my being affect what will be<br><br>Like the string, I unwind<br>And pull these lost memories out of me<br><br>One at a time<br>So that the world can see<br>
+    </div>
+    
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/4641966/" class="readpoem color-midnight" rel="nofollow" title="Continue reading Colm's poem Threads of memory and mind">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+<div id="poem4641964" class="poem poem-left preview" data-align="left" data-url="http://hellopoetry.com/poem/4641964/a-name-by-you/" data-text="A name by you by Colm" seepoem="/act/poem/see/4641964/" readpoem="/act/poem/read/4641964/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Oct 9, 2022">Oct 2022</span>
+            
+            
+              <span class="s subtle hovershow" title="67 views"> &middot; 67</span>
+            
+          
+        </div>
+        <a href="/poem/4641964/a-name-by-you/" class="poem-title nocolor">A name by you</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/colmistoirm/" class="nocolor poem-poet-name">Colm</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Oct 9, 2022">
+            Oct 2022
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/4641964/a-name-by-you/" class="nocolor">A name by you</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      Call me something new<br>Don't call me anything that <br>was reserved for they<br>For my wish is not to be <br>but to forever have been<br>
+    </div>
+    
+      <div class="poem-part topss poem-append s wordwrap">
+        Call me it
+      </div>
+    
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/4641964/" class="readpoem color-midnight" rel="nofollow" title="Continue reading Colm's poem A name by you">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+<div id="poem4641963" class="poem poem-left preview" data-align="left" data-url="http://hellopoetry.com/poem/4641963/it-takes-too-who/" data-text="It takes too who by Colm" seepoem="/act/poem/see/4641963/" readpoem="/act/poem/read/4641963/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Oct 9, 2022">Oct 2022</span>
+            
+            
+              <span class="s subtle hovershow" title="27 views"> &middot; 27</span>
+            
+          
+        </div>
+        <a href="/poem/4641963/it-takes-too-who/" class="poem-title nocolor">It takes too who</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/colmistoirm/" class="nocolor poem-poet-name">Colm</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Oct 9, 2022">
+            Oct 2022
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/4641963/it-takes-too-who/" class="nocolor">It takes too who</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      Love is a dance ... not a chase<br>And both partners need to step up<br>And do the ultimate about-face<br>And <br>Embrace<br>
+    </div>
+    
+      <div class="poem-part topss poem-append s wordwrap">
+        two, too, to
+      </div>
+    
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/4641963/" class="readpoem color-midnight" rel="nofollow" title="Continue reading Colm's poem It takes too who">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+<div id="poem4641962" class="poem poem-left preview" data-align="left" data-url="http://hellopoetry.com/poem/4641962/you-cant-hold-the-sky/" data-text="You can&#39;t hold the sky by Colm" seepoem="/act/poem/see/4641962/" readpoem="/act/poem/read/4641962/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Oct 9, 2022">Oct 2022</span>
+            
+            
+              <span class="s subtle hovershow" title="29 views"> &middot; 29</span>
+            
+          
+        </div>
+        <a href="/poem/4641962/you-cant-hold-the-sky/" class="poem-title nocolor">You can&#39;t hold the sky</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/colmistoirm/" class="nocolor poem-poet-name">Colm</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Oct 9, 2022">
+            Oct 2022
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/4641962/you-cant-hold-the-sky/" class="nocolor">You can&#39;t hold the sky</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      It is right<br>And no wonder that I saw<br>And wrote you as starlight <br><br>Because I cannot touch you<br><br>And I need a loving vision<br>Alive and learning<br>And closely burning <br><br>Not at a distance<br>And for that, I'm not sorry<br><br>Sorry<br>
+    </div>
+    
+      <div class="poem-part topss poem-append s wordwrap">
+        not about anyone who will ever read these beings
+      </div>
+    
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/4641962/" class="readpoem color-midnight" rel="nofollow" title="Continue reading Colm's poem You can&#39;t hold the sky">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+<div id="poem4641961" class="poem poem-left preview" data-align="left" data-url="http://hellopoetry.com/poem/4641961/just-so-you-know/" data-text="Just so you know by Colm" seepoem="/act/poem/see/4641961/" readpoem="/act/poem/read/4641961/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Oct 9, 2022">Oct 2022</span>
+            
+            
+              <span class="s subtle hovershow" title="59 views"> &middot; 59</span>
+            
+          
+        </div>
+        <a href="/poem/4641961/just-so-you-know/" class="poem-title nocolor">Just so you know</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/colmistoirm/" class="nocolor poem-poet-name">Colm</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Oct 9, 2022">
+            Oct 2022
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/4641961/just-so-you-know/" class="nocolor">Just so you know</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      I'm not a suitor<br>I am gray skies and bright suns <br>From flying days past<br><br>That is all, a Haiku<br>
+    </div>
+    
+      <div class="poem-part topss poem-append s wordwrap">
+        SJ - lol
+      </div>
+    
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/4641961/" class="readpoem color-midnight" rel="nofollow" title="Continue reading Colm's poem Just so you know">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+<div id="poem4641960" class="poem poem-left preview" data-align="left" data-url="http://hellopoetry.com/poem/4641960/less-is-such-a-human-word/" data-text="Less is such a human word by Colm" seepoem="/act/poem/see/4641960/" readpoem="/act/poem/read/4641960/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Oct 9, 2022">Oct 2022</span>
+            
+            
+              <span class="s subtle hovershow" title="25 views"> &middot; 25</span>
+            
+          
+        </div>
+        <a href="/poem/4641960/less-is-such-a-human-word/" class="poem-title nocolor">Less is such a human word</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/colmistoirm/" class="nocolor poem-poet-name">Colm</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Oct 9, 2022">
+            Oct 2022
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/4641960/less-is-such-a-human-word/" class="nocolor">Less is such a human word</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      There are those who swim <br>Through stone and oak<br>And cannot speak a word to crowds <br>Nor care to feel what urchins lost<br>Or seek to speak what cannot be found<br><br>I am, I'm not<br>They are, they is<br><br>But the difference in being is none of this<br>The difference is just what is <br>And is<br><br>Less is such a human word<br>
+    </div>
+    
+      <div class="poem-part topss poem-append s wordwrap">
+        ee
+      </div>
+    
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/4641960/" class="readpoem color-midnight" rel="nofollow" title="Continue reading Colm's poem Less is such a human word">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+<div id="poem4641952" class="poem poem-left preview" data-align="left" data-url="http://hellopoetry.com/poem/4641952/when-a-falling-star-catches-you/" data-text="When a falling star catches you by Colm" seepoem="/act/poem/see/4641952/" readpoem="/act/poem/read/4641952/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Oct 9, 2022">Oct 2022</span>
+            
+            
+              <span class="s subtle hovershow" title="42 views"> &middot; 42</span>
+            
+          
+        </div>
+        <a href="/poem/4641952/when-a-falling-star-catches-you/" class="poem-title nocolor">When a falling star catches you</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/colmistoirm/" class="nocolor poem-poet-name">Colm</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Oct 9, 2022">
+            Oct 2022
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/4641952/when-a-falling-star-catches-you/" class="nocolor">When a falling star catches you</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      Such a human concept<br><br>For when you wish on physical stars <br>(which exist) -<br>For so long that <br>You wouldn't know what to do if you caught one<br>I'll tell you this -<br>At 3,500K, you wouldn't be so quick to wish<br><br>Maybe tell your lover<br>"I summoned you from an ocean stare" instead<br><br>Much cooler<br>
+    </div>
+    
+      <div class="poem-part topss poem-append s wordwrap">
+        When a falling star catches you
+      </div>
+    
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/4641952/" class="readpoem color-midnight" rel="nofollow" title="Continue reading Colm's poem When a falling star catches you">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+<div id="poem4641949" class="poem poem-left preview" data-align="left" data-url="http://hellopoetry.com/poem/4641949/peaceful-feet/" data-text="Peaceful Feet by Colm" seepoem="/act/poem/see/4641949/" readpoem="/act/poem/read/4641949/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Oct 9, 2022">Oct 2022</span>
+            
+            
+              <span class="s subtle hovershow" title="43 views"> &middot; 43</span>
+            
+          
+        </div>
+        <a href="/poem/4641949/peaceful-feet/" class="poem-title nocolor">Peaceful Feet</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/colmistoirm/" class="nocolor poem-poet-name">Colm</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Oct 9, 2022">
+            Oct 2022
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/4641949/peaceful-feet/" class="nocolor">Peaceful Feet</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      Peace, quiet.<br><br>Wash over me and see these feet -<br><br>Not own but owned by others <br><br>With joy-filled steps of contentment - leave <br><br>And I <br><br>Finding nothing but thoughts abound<br><br>And a will within to stay sitting down <br><br>Feel not their need as is not my need <br><br>And I - having all which I could want at hand<br><br>Am alone at last in me<br><br>I'm free<br>
+    </div>
+    
+      <div class="poem-part topss poem-append s wordwrap">
+        Peacefulfeet
+      </div>
+    
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/4641949/" class="readpoem color-midnight" rel="nofollow" title="Continue reading Colm's poem Peaceful Feet">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+<div id="poem4641951" class="poem poem-left preview" data-align="left" data-url="http://hellopoetry.com/poem/4641951/an-ocean-view-to-hear/" data-text="An Ocean View to Hear by Colm" seepoem="/act/poem/see/4641951/" readpoem="/act/poem/read/4641951/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Oct 9, 2022">Oct 2022</span>
+            
+            
+              <span class="s subtle hovershow" title="19 views"> &middot; 19</span>
+            
+          
+        </div>
+        <a href="/poem/4641951/an-ocean-view-to-hear/" class="poem-title nocolor">An Ocean View to Hear</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/colmistoirm/" class="nocolor poem-poet-name">Colm</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Oct 9, 2022">
+            Oct 2022
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/4641951/an-ocean-view-to-hear/" class="nocolor">An Ocean View to Hear</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      Rain falls<br>Hopes rise<br>Mountains crumble over lifetimes small<br><br>Night skies blink<br>Struck by waking tides<br>And waves crash down till no more tall<br><br>The humans run and walk their lives<br>Into beneath, beside, and in<br>The massive wonders of God alive<br><br>And yet so few ever stop to see<br>To breathe in these<br>Before their very eyes<br><br>Goodbyes<br>
+    </div>
+    
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/4641951/" class="readpoem color-midnight" rel="nofollow" title="Continue reading Colm's poem An Ocean View to Hear">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+<div id="poem4641935" class="poem poem-left preview" data-align="left" data-url="http://hellopoetry.com/poem/4641935/how-friends-appear/" data-text="How Friends Appear by Colm" seepoem="/act/poem/see/4641935/" readpoem="/act/poem/read/4641935/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Oct 9, 2022">Oct 2022</span>
+            
+            
+              <span class="s subtle hovershow" title="34 views"> &middot; 34</span>
+            
+          
+        </div>
+        <a href="/poem/4641935/how-friends-appear/" class="poem-title nocolor">How Friends Appear</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/colmistoirm/" class="nocolor poem-poet-name">Colm</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Oct 9, 2022">
+            Oct 2022
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/4641935/how-friends-appear/" class="nocolor">How Friends Appear</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      If life is sleep<br>Then best friends walk into being<br>Like a glorious dawn<br>And in your own confusion, you never see<br>Where they came from or what you did<br>To deserve to walk alongside<br>Such a kindred being<br><br>You never knew, and you never will<br><br>It just is<br>
+    </div>
+    
+      <div class="poem-part topss poem-append s wordwrap">
+        yup
+      </div>
+    
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/4641935/" class="readpoem color-midnight" rel="nofollow" title="Continue reading Colm's poem How Friends Appear">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+<div id="poem4639337" class="poem poem-center preview" data-align="center" data-url="http://hellopoetry.com/poem/4639337/a-different-type-of-glow/" data-text="A different type of glow by Colm" seepoem="/act/poem/see/4639337/" readpoem="/act/poem/read/4639337/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Oct 6, 2022">Oct 2022</span>
+            
+            
+              <span class="s subtle hovershow" title="267 views"> &middot; 267</span>
+            
+          
+        </div>
+        <a href="/poem/4639337/a-different-type-of-glow/" class="poem-title nocolor">A different type of glow</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/colmistoirm/" class="nocolor poem-poet-name">Colm</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Oct 6, 2022">
+            Oct 2022
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/4639337/a-different-type-of-glow/" class="nocolor">A different type of glow</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      Perhaps you are not as you seem<br>Or perhaps the problem<br>As it always has been<br>Resides with me<br><br>For I am my not that<br>As I am not awake<br>But that too often now I have gone to dreams<br>And dreams don't die for me <br><br>Instead I breathe <br>And in sleeping <br>Wake<br>
+    </div>
+    
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/4639337/" class="readpoem color-midnight" rel="nofollow" title="Continue reading Colm's poem A different type of glow">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+<div id="poem4636368" class="poem poem-left preview" data-align="left" data-url="http://hellopoetry.com/poem/4636368/my-feet-know-the-only-way-to-be/" data-text="My feet know the only way to be by Colm" seepoem="/act/poem/see/4636368/" readpoem="/act/poem/read/4636368/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Oct 6, 2022">Oct 2022</span>
+            
+            
+              <span class="s subtle hovershow" title="190 views"> &middot; 190</span>
+            
+          
+        </div>
+        <a href="/poem/4636368/my-feet-know-the-only-way-to-be/" class="poem-title nocolor">My feet know the only way to be</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/colmistoirm/" class="nocolor poem-poet-name">Colm</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Oct 6, 2022">
+            Oct 2022
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/4636368/my-feet-know-the-only-way-to-be/" class="nocolor">My feet know the only way to be</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      As I walk<br><br>Through the mountains of elevated responses to be<br><br>I look bout and feel, breathe in and see<br><br>A new outward being<br><br>Almost proud of, in me<br><br>Anew breath, a new earth<br><br>As I find newness<br><br>Where there was no patience in me<br><br>Previously<br><br>As I walk<br>
+    </div>
+    
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/4636368/" class="readpoem color-midnight" rel="nofollow" title="Continue reading Colm's poem My feet know the only way to be">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+<div id="poem4636372" class="poem poem-center preview" data-align="center" data-url="http://hellopoetry.com/poem/4636372/the-strongest-winds-are-all-within/" data-text="The strongest winds are all within by Colm" seepoem="/act/poem/see/4636372/" readpoem="/act/poem/read/4636372/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Sep 22, 2022">Sep 2022</span>
+            
+            
+              <span class="s subtle hovershow" title="116 views"> &middot; 116</span>
+            
+          
+        </div>
+        <a href="/poem/4636372/the-strongest-winds-are-all-within/" class="poem-title nocolor">The strongest winds are all within</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/colmistoirm/" class="nocolor poem-poet-name">Colm</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Sep 22, 2022">
+            Sep 2022
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/4636372/the-strongest-winds-are-all-within/" class="nocolor">The strongest winds are all within</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      Battled as a worrier be<br>I feel berated all around<br>Not just the wind or the waves<br>But by what I cannot see<br><br>As it is me always been <br>Always will not hopefully<br>These constant battering thoughts <br>Cautious tumultuous as is me<br><br>But if I'd speak as I speak<br>Lean on Gods listening<br>And just walk into freedom<br>Be it overtop of the sea<br><br>Next, I'm known longer lost <br>But instead, free to be <br>Like a sailboat again<br>Against winds constantly<br>
+    </div>
+    
+      <div class="poem-part topss poem-append s wordwrap">
+        Most times I, do indeed. Pray for me.<br />https://www.youtube.com/watch?v=SWgAlZjf760&amp;ab_channel=CodyFry
+      </div>
+    
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/4636372/" class="readpoem color-midnight" rel="nofollow" title="Continue reading Colm's poem The strongest winds are all within">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+<div id="poem4636369" class="poem poem-left preview" data-align="left" data-url="http://hellopoetry.com/poem/4636369/peaks/" data-text="Peaks by Colm" seepoem="/act/poem/see/4636369/" readpoem="/act/poem/read/4636369/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Sep 22, 2022">Sep 2022</span>
+            
+            
+              <span class="s subtle hovershow" title="105 views"> &middot; 105</span>
+            
+          
+        </div>
+        <a href="/poem/4636369/peaks/" class="poem-title nocolor">Peaks</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/colmistoirm/" class="nocolor poem-poet-name">Colm</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Sep 22, 2022">
+            Sep 2022
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/4636369/peaks/" class="nocolor">Peaks</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      That horizon<br>It would've been beautiful <br>To climb and peek<br>At its mountain peeks<br>And at the top to see<br>All of the breathless heights <br>Which it would've held<br><br>But instead<br>In the middle of the week<br>I wed<br>
+    </div>
+    
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/4636369/" class="readpoem color-midnight" rel="nofollow" title="Continue reading Colm's poem Peaks">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+<div id="poem4636367" class="poem poem-left preview" data-align="left" data-url="http://hellopoetry.com/poem/4636367/my-feet-know-the-only-way-to-be/" data-text="My feet know the only way to be by Colm" seepoem="/act/poem/see/4636367/" readpoem="/act/poem/read/4636367/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Sep 22, 2022">Sep 2022</span>
+            
+            
+              <span class="s subtle hovershow" title="293 views"> &middot; 293</span>
+            
+          
+        </div>
+        <a href="/poem/4636367/my-feet-know-the-only-way-to-be/" class="poem-title nocolor">My feet know the only way to be</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/colmistoirm/" class="nocolor poem-poet-name">Colm</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Sep 22, 2022">
+            Sep 2022
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/4636367/my-feet-know-the-only-way-to-be/" class="nocolor">My feet know the only way to be</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      As I walk<br><br>Through the mountains of elevated responses to be<br><br>I look bout and feel, breathe in and see<br><br>A new outward being<br><br>Almost proud of, in me<br><br>Anew breath, a new earth<br><br>As I find newness<br><br>Where there was no patience in me<br><br>Previously<br><br>As I walk<br>
+    </div>
+    
+      <div class="poem-part topss poem-append s wordwrap">
+        Around this time - SJ
+      </div>
+    
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/4636367/" class="readpoem color-midnight" rel="nofollow" title="Continue reading Colm's poem My feet know the only way to be">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+<div id="poem4631380" class="poem poem-center preview" data-align="center" data-url="http://hellopoetry.com/poem/4631380/with-starlight-in-eyes/" data-text="With starlight in eyes by Colm" seepoem="/act/poem/see/4631380/" readpoem="/act/poem/read/4631380/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Sep 8, 2022">Sep 2022</span>
+            
+            
+              <span class="s subtle hovershow" title="279 views"> &middot; 279</span>
+            
+          
+        </div>
+        <a href="/poem/4631380/with-starlight-in-eyes/" class="poem-title nocolor">With starlight in eyes</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/colmistoirm/" class="nocolor poem-poet-name">Colm</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Sep 8, 2022">
+            Sep 2022
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/4631380/with-starlight-in-eyes/" class="nocolor">With starlight in eyes</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      You walked in<br>And I saw<br>For a moment struck by falling awe<br>The same starlight in your eyes<br>As had been within my dreams as of late<br>And like that<br>The morning of not knowing was over<br>And you were there in the afternoon<br><br>I didn't expect such starlight then<br>
+    </div>
+    
+      <div class="poem-part topss poem-append s wordwrap">
+        Someone once struck me - but I'm glad it passed
+      </div>
+    
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/4631380/" class="readpoem color-midnight" rel="nofollow" title="Continue reading Colm's poem With starlight in eyes">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+<div id="poem4630035" class="poem poem-right preview" data-align="right" data-url="http://hellopoetry.com/poem/4630035/a-sight/" data-text="A Sight by Colm" seepoem="/act/poem/see/4630035/" readpoem="/act/poem/read/4630035/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Sep 4, 2022">Sep 2022</span>
+            
+            
+              <span class="s subtle hovershow" title="91 views"> &middot; 91</span>
+            
+          
+        </div>
+        <a href="/poem/4630035/a-sight/" class="poem-title nocolor">A Sight</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/colmistoirm/" class="nocolor poem-poet-name">Colm</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Sep 4, 2022">
+            Sep 2022
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/4630035/a-sight/" class="nocolor">A Sight</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      On the days when I <br>Am aware and awake <br>And in balance with the world <br>From each stream to each oceans lake<br><br>I swear noone else can contest my sight<br>Or explain my innate insight <br>Or see the light as my eyes perceive<br><br>Where shadows meet <br>Both the man-made eaves and the un<br><br>I am there in feeling just beyond the chest<br><br>It was always me<br>
+    </div>
+    
+      <div class="poem-part topss poem-append s wordwrap">
+        The set about creations . 10<br /><br />A mix of self, self reflections, beliefs, and observations about the world which currently holds me. None of these will change the world, but over time these have certainly changed me. For better or worse, I remain. Mr. Constant. (:<br /><br />Thanks friend.
+      </div>
+    
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/4630035/" class="readpoem color-midnight" rel="nofollow" title="Continue reading Colm's poem A Sight">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+<div id="poem4630034" class="poem poem-left preview" data-align="left" data-url="http://hellopoetry.com/poem/4630034/a-challenge/" data-text="A Challenge by Colm" seepoem="/act/poem/see/4630034/" readpoem="/act/poem/read/4630034/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Sep 4, 2022">Sep 2022</span>
+            
+            
+              <span class="s subtle hovershow" title="90 views"> &middot; 90</span>
+            
+          
+        </div>
+        <a href="/poem/4630034/a-challenge/" class="poem-title nocolor">A Challenge</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/colmistoirm/" class="nocolor poem-poet-name">Colm</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Sep 4, 2022">
+            Sep 2022
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/4630034/a-challenge/" class="nocolor">A Challenge</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      Waiting for the Lord<br><br>As the soul waits for the wind <br>As hands wait for the friend<br>As homes wait for each of these<br><br>Small beings no more than the grassy seas<br>Just as rain is sent by the lord again<br>So that all of these may grow and be<br><br>I **** at accepting gifts<br>
+    </div>
+    
+      <div class="poem-part topss poem-append s wordwrap">
+        The set about creations . 9
+      </div>
+    
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/4630034/" class="readpoem color-midnight" rel="nofollow" title="Continue reading Colm's poem A Challenge">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+<div id="poem4630033" class="poem poem-right preview" data-align="right" data-url="http://hellopoetry.com/poem/4630033/a-question/" data-text="A Question by Colm" seepoem="/act/poem/see/4630033/" readpoem="/act/poem/read/4630033/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Sep 4, 2022">Sep 2022</span>
+            
+            
+              <span class="s subtle hovershow" title="402 views"> &middot; 402</span>
+            
+          
+        </div>
+        <a href="/poem/4630033/a-question/" class="poem-title nocolor">A Question</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/colmistoirm/" class="nocolor poem-poet-name">Colm</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Sep 4, 2022">
+            Sep 2022
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/4630033/a-question/" class="nocolor">A Question</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      What if my tongue<br>Parched from its boredom<br>Runs out of ink<br>Or forgets itself<br>And the ways of penning graphite scenes<br>Into the reality of lines to be<br>?<br><br>What if my of<br>Has come forth only to be <br>Nothing more than a habitus <br>Or self reflective mirror<br>That worships either everything of self<br>Or of thee<br>?<br><br>What if our cause<br>Was already free<br>And found beside a quiet setting<br>Where the Idaho deer<br>Meet, paw, and breed their joys <br>Dispite of inequities <br>?<br><br>What if this<br>All the snow in heaven fell<br>And all the heat of hell rose up<br>And all the steam between were trees<br>And you were me<br>And we were these<br>?<br><br>What if is all I ask of me<br>?<br>
+    </div>
+    
+      <div class="poem-part topss poem-append s wordwrap">
+        The set about creations . 8
+      </div>
+    
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/4630033/" class="readpoem color-midnight" rel="nofollow" title="Continue reading Colm's poem A Question">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+<div id="poem4630031" class="poem poem-left preview" data-align="left" data-url="http://hellopoetry.com/poem/4630031/a-beleif/" data-text="A Beleif by Colm" seepoem="/act/poem/see/4630031/" readpoem="/act/poem/read/4630031/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Sep 4, 2022">Sep 2022</span>
+            
+            
+              <span class="s subtle hovershow" title="108 views"> &middot; 108</span>
+            
+          
+        </div>
+        <a href="/poem/4630031/a-beleif/" class="poem-title nocolor">A Beleif</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/colmistoirm/" class="nocolor poem-poet-name">Colm</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Sep 4, 2022">
+            Sep 2022
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/4630031/a-beleif/" class="nocolor">A Beleif</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      I value creation<br>I care about outcome <br>I live not for me<br>But to die everyday<br>To away from the old ways<br>I flee<br>
+    </div>
+    
+      <div class="poem-part topss poem-append s wordwrap">
+        The set about creations . 7
+      </div>
+    
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/4630031/" class="readpoem color-midnight" rel="nofollow" title="Continue reading Colm's poem A Beleif">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+<div id="poem4630027" class="poem poem-right preview" data-align="right" data-url="http://hellopoetry.com/poem/4630027/a-lover/" data-text="A Lover by Colm" seepoem="/act/poem/see/4630027/" readpoem="/act/poem/read/4630027/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Sep 4, 2022">Sep 2022</span>
+            
+            
+              <span class="s subtle hovershow" title="45 views"> &middot; 45</span>
+            
+          
+        </div>
+        <a href="/poem/4630027/a-lover/" class="poem-title nocolor">A Lover</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/colmistoirm/" class="nocolor poem-poet-name">Colm</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Sep 4, 2022">
+            Sep 2022
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/4630027/a-lover/" class="nocolor">A Lover</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      Before she turns and sees my eyes<br>Which burn with similar fires<br>And hopeful truths<br><br>Like autumn rolling back her hair<br>Into a twisted bun<br>And messy painted summer skies<br><br>She keeps her constant gaze abroad <br>Before she turns<br>I'm a way to hide<br>
+    </div>
+    
+      <div class="poem-part topss poem-append s wordwrap">
+        The set about creations . 6
+      </div>
+    
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/4630027/" class="readpoem color-midnight" rel="nofollow" title="Continue reading Colm's poem A Lover">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+<div id="poem4630025" class="poem poem-left preview" data-align="left" data-url="http://hellopoetry.com/poem/4630025/a-taste/" data-text="A Taste by Colm" seepoem="/act/poem/see/4630025/" readpoem="/act/poem/read/4630025/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Sep 4, 2022">Sep 2022</span>
+            
+            
+              <span class="s subtle hovershow" title="75 views"> &middot; 75</span>
+            
+          
+        </div>
+        <a href="/poem/4630025/a-taste/" class="poem-title nocolor">A Taste</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/colmistoirm/" class="nocolor poem-poet-name">Colm</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Sep 4, 2022">
+            Sep 2022
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/4630025/a-taste/" class="nocolor">A Taste</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      Noone wants filet minion <br>Everyday<br>And if they do they don't have it<br><br>Envy is an occasional thing<br>Whereas the truth is much more real<br>And substantial<br>
+    </div>
+    
+      <div class="poem-part topss poem-append s wordwrap">
+        The set about creations . 5
+      </div>
+    
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/4630025/" class="readpoem color-midnight" rel="nofollow" title="Continue reading Colm's poem A Taste">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+<div id="poem4630022" class="poem poem-right preview" data-align="right" data-url="http://hellopoetry.com/poem/4630022/a-question/" data-text="A Question by Colm" seepoem="/act/poem/see/4630022/" readpoem="/act/poem/read/4630022/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Sep 4, 2022">Sep 2022</span>
+            
+            
+              <span class="s subtle hovershow" title="37 views"> &middot; 37</span>
+            
+          
+        </div>
+        <a href="/poem/4630022/a-question/" class="poem-title nocolor">A Question</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/colmistoirm/" class="nocolor poem-poet-name">Colm</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Sep 4, 2022">
+            Sep 2022
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/4630022/a-question/" class="nocolor">A Question</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      Is it wrong <br>To not want something so easy<br>As shallow<br><br>Is it noble to wait<br>For something so uncertain<br>As what you actually want<br><br>Knowing isn't having<br>Just as finding isn't searching<br>It's just known<br>
+    </div>
+    
+      <div class="poem-part topss poem-append s wordwrap">
+        The set about creations . 4
+      </div>
+    
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/4630022/" class="readpoem color-midnight" rel="nofollow" title="Continue reading Colm's poem A Question">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+<div id="poem4630020" class="poem poem-left preview" data-align="left" data-url="http://hellopoetry.com/poem/4630020/a-thoughtful-heart/" data-text="A Thoughtful Heart by Colm" seepoem="/act/poem/see/4630020/" readpoem="/act/poem/read/4630020/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Sep 4, 2022">Sep 2022</span>
+            
+            
+              <span class="s subtle hovershow" title="37 views"> &middot; 37</span>
+            
+          
+        </div>
+        <a href="/poem/4630020/a-thoughtful-heart/" class="poem-title nocolor">A Thoughtful Heart</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/colmistoirm/" class="nocolor poem-poet-name">Colm</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Sep 4, 2022">
+            Sep 2022
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/4630020/a-thoughtful-heart/" class="nocolor">A Thoughtful Heart</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      A thoughtful heart<br>&nbsp;&nbsp; Wishes for a quiet corner<br>And thinks <br>&nbsp;&nbsp; Not for the potential being or un<br>But for others warm<br>&nbsp;&nbsp; And their tired feet<br>Though they may never meet<br>&nbsp;&nbsp; The intent is pure<br>And purely kind<br>
+    </div>
+    
+      <div class="poem-part topss poem-append s wordwrap">
+        The set about creations . 3
+      </div>
+    
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/4630020/" class="readpoem color-midnight" rel="nofollow" title="Continue reading Colm's poem A Thoughtful Heart">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+<div id="poem4630019" class="poem poem-right preview" data-align="right" data-url="http://hellopoetry.com/poem/4630019/a-feeling/" data-text="A Feeling by Colm" seepoem="/act/poem/see/4630019/" readpoem="/act/poem/read/4630019/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Sep 4, 2022">Sep 2022</span>
+            
+            
+              <span class="s subtle hovershow" title="44 views"> &middot; 44</span>
+            
+          
+        </div>
+        <a href="/poem/4630019/a-feeling/" class="poem-title nocolor">A Feeling</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/colmistoirm/" class="nocolor poem-poet-name">Colm</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Sep 4, 2022">
+            Sep 2022
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/4630019/a-feeling/" class="nocolor">A Feeling</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      I love the feeling of these words<br>The dark of night dying to day<br>The distant hum of summer birds<br>And the lightning bugs in gloriful sway<br><br>Just wishing, hoping, praying that they<br>The birds, these words, this glow<br>Will stay<br><br>Though they never do<br>I turn <br><br>And they've all gone away<br>
+    </div>
+    
+      <div class="poem-part topss poem-append s wordwrap">
+        The set about creations . 2
+      </div>
+    
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/4630019/" class="readpoem color-midnight" rel="nofollow" title="Continue reading Colm's poem A Feeling">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+<div id="poem4630016" class="poem poem-left preview" data-align="left" data-url="http://hellopoetry.com/poem/4630016/a-creator/" data-text="A Creator by Colm" seepoem="/act/poem/see/4630016/" readpoem="/act/poem/read/4630016/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Sep 4, 2022">Sep 2022</span>
+            
+            
+              <span class="s subtle hovershow" title="44 views"> &middot; 44</span>
+            
+          
+        </div>
+        <a href="/poem/4630016/a-creator/" class="poem-title nocolor">A Creator</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/colmistoirm/" class="nocolor poem-poet-name">Colm</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Sep 4, 2022">
+            Sep 2022
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/4630016/a-creator/" class="nocolor">A Creator</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      Give me space and the freedom to feel it out<br>Into the existence which wasn't meant to be<br>But would never have been<br>Without the vision<br>Without me<br><br>I am a selfish, most biased, creator of worlds<br>
+    </div>
+    
+      <div class="poem-part topss poem-append s wordwrap">
+        The set about creations . 1
+      </div>
+    
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/4630016/" class="readpoem color-midnight" rel="nofollow" title="Continue reading Colm's poem A Creator">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+<div id="poem4621989" class="poem poem-center preview" data-align="center" data-url="http://hellopoetry.com/poem/4621989/dear-alan-watts/" data-text="dear alan watts by Colm" seepoem="/act/poem/see/4621989/" readpoem="/act/poem/read/4621989/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Aug 15, 2022">Aug 2022</span>
+            
+            
+              <span class="s subtle hovershow" title="117 views"> &middot; 117</span>
+            
+          
+        </div>
+        <a href="/poem/4621989/dear-alan-watts/" class="poem-title nocolor">dear alan watts</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/colmistoirm/" class="nocolor poem-poet-name">Colm</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Aug 15, 2022">
+            Aug 2022
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/4621989/dear-alan-watts/" class="nocolor">dear alan watts</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      You are<br>Like cloud <br>And water <br>In the breeze<br><br>Like stray fodder<br>You lift <br>And float<br>And love<br>And hover above<br>The blocking sun<br>At ease <br><br>Until rain<br>Or snowfall<br>Or dew <br>Does fall <br><br>You are <br>As nothing<br>And yet something<br>As all<br>
+    </div>
+    
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/4621989/" class="readpoem color-midnight" rel="nofollow" title="Continue reading Colm's poem dear alan watts">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+<div id="poem4621988" class="poem poem-right preview" data-align="right" data-url="http://hellopoetry.com/poem/4621988/moonlight-heart/" data-text="moonlight heart by Colm" seepoem="/act/poem/see/4621988/" readpoem="/act/poem/read/4621988/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Aug 15, 2022">Aug 2022</span>
+            
+            
+              <span class="s subtle hovershow" title="304 views"> &middot; 304</span>
+            
+          
+        </div>
+        <a href="/poem/4621988/moonlight-heart/" class="poem-title nocolor">moonlight heart</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/colmistoirm/" class="nocolor poem-poet-name">Colm</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Aug 15, 2022">
+            Aug 2022
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/4621988/moonlight-heart/" class="nocolor">moonlight heart</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      When my moonlight heart<br>Awakes <br><br>And cries eternity asleep no more<br>She says<br>“you do not know<br>where you are as of late” <br><br>And with a bright flash of light<br>So her insult speaks<br>And slowly resonates <br><br>And I then<br>Will inevitably wake <br>Just to contemplate<br>
+    </div>
+    
+      <div class="poem-part topss poem-append s wordwrap">
+        moonlight heart
+      </div>
+    
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/4621988/" class="readpoem color-midnight" rel="nofollow" title="Continue reading Colm's poem moonlight heart">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+<div id="poem4608304" class="poem poem-right preview" data-align="right" data-url="http://hellopoetry.com/poem/4608304/in-the-arms-of-cafe/" data-text="In the arms of cafe by Colm" seepoem="/act/poem/see/4608304/" readpoem="/act/poem/read/4608304/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Jul 12, 2022">Jul 2022</span>
+            
+            
+              <span class="s subtle hovershow" title="247 views"> &middot; 247</span>
+            
+          
+        </div>
+        <a href="/poem/4608304/in-the-arms-of-cafe/" class="poem-title nocolor">In the arms of cafe</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/colmistoirm/" class="nocolor poem-poet-name">Colm</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Jul 12, 2022">
+            Jul 2022
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/4608304/in-the-arms-of-cafe/" class="nocolor">In the arms of cafe</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      To be had<br>I don't know where you're at<br>But this coffee has me<br>
+    </div>
+    
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/4608304/" class="readpoem color-midnight" rel="nofollow" title="Continue reading Colm's poem In the arms of cafe">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+
+  
+    <div class="pager">
+      <a href="/colmistoirm/poems/?page=2" class="btn btn-block">Next page <i class="fa fa-angle-right"></i></a>
+    </div>
+  
+
+</div>
+
+
+        <script type="text/javascript">var DEBUG=false;var STATIC_DOMAIN="https://hellopoetry.s3.amazonaws.com";var LOGGED_IN=false;var STRIPE_PUB_KEY="pk_live_h83jQaBk4MutozfGBBu6i35J";var MY_COLOR='red';
+        </script>
+        
+            <script src="https://hellopoetry.s3.amazonaws.com/js/hp.min.js?71" type="text/javascript"></script>
+        
+
+        
+
+        
+  <div id="notinview">&nbsp;</div>
+  <div id="invisblock"></div>
+  <div id="backtotop" class="subtle" title="Back to top"><i class="fa fa-fw fa-angle-up"></i></div>
+  
+  <div id="req_messages"></div>
+  
+    <script type="text/javascript">
+      $(function(){
+        
+      });
+    </script>
+  
+
+
+        
+
+        
+        <script type="text/javascript">
+            $(document).ready(function(){
+                try{
+                  ga('send', 'pageview');
+                }catch(e) { }
+            });
+        </script>
+        
+        
+    </body>
+</html>

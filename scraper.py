@@ -2,15 +2,18 @@
 # with open("hepo_source.txt") as file:
 #     data = file.read()
 
-# how to search: data-text="
+# get the title: data-text="
+# get the content: <div class="poem-part continue-reading poem-body wordwrap">
 import requests
 
+poems = {}
 
-url = "https://hellopoetry.com/colmistoirm/poems/title/?page=3&rnd=0.649245656827161"  # rnd value may need to change?
+
+url = "https://hellopoetry.com/colmistoirm/poems/title/?page=2&rnd=0.649245656827161"  # rnd value may need to change?
 headers = {
     ":authority": "hellopoetry.com",
     ":method": "GET",
-    ":path": "/colmistoirm/poems/title/?page=2&rnd=0.3756923205373932",
+    ":path": "/colmistoirm/poems/title/?page=2675&rnd=0.3756923205373932",
     ":scheme": "https",
     "accept": "*/*",
     "accept-encoding": "gzip, deflate, br",
@@ -26,3 +29,7 @@ headers = {
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36",
     "x-requested-with": "XMLHttpRequest",
 }
+
+r = requests.get(url=url, params=headers)
+page = r.text
+print(page)
